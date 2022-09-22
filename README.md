@@ -5,7 +5,7 @@
 
    ql repo https://github.com/woji95/wojivx.git
 
-没有代理，代理自己想办法
+没有代理，代理自己想办法 
 
 或者参考这个文章：
 
