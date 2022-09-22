@@ -3,7 +3,7 @@
 
 拉库命令：
 
-
+ql repo https://github.com/woji95/wojivx.git
 
 没有代理，代理自己想办法 
 
